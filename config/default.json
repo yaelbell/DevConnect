@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://yconnect:zehayom@cluster0.ffomdui.mongodb.net/?retryWrites=true&w=majority",
+  "jwtToken": "tokensodi",
+  "githubClientId": "7033a3ba19b68ee68b28",
+  "githubSecret": "715a5d86c65c57fbc787d4adf744e1fe9875742b"
+}
